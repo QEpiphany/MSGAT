@@ -3,6 +3,7 @@ Code for our CIKM 2023 Paper **"Multiple Sparse Graph Attention Networks for Ses
 
 
 ## Overview
-<img width="800" alt="b818772799aba440240d3b7dd78ce4a" src="https://github.com/QEpiphany/MSGAT/assets/133072736/fed2119f-6181-4c1e-977a-264914465303">
+![image](https://github.com/QEpiphany/MSGAT/assets/133072736/c1006fe2-32bc-412a-a95a-0deb745cd1ab)
+
 
 ## Cite
