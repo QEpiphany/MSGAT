@@ -7,3 +7,4 @@ Code for our CIKM 2023 Paper **"Multiple Sparse Graph Attention Networks for Ses
 
 
 ## Cite
+Please cite the following paper if you find our code helpful.
