@@ -1,5 +1,5 @@
 # MSGAT
-Code for our CIKM 2023 Paper **"Multiple Sparse Graph Attention Networks for Session-based Recommendation"**
+Code for our CIKM 2023 Paper **"Bi-channel Multiple Sparse Graph Attention Networks for Session-based Recommendation"**
 
 
 ## Overview
