@@ -1,6 +1,7 @@
 # MSGAT
 Code for our CIKM 2023 Paper **"Bi-channel Multiple Sparse Graph Attention Networks for Session-based Recommendation"**
 
+[Article link](https://dl.acm.org/doi/abs/10.1145/3583780.3614791)
 
 ## Overview
 ![image](https://github.com/QEpiphany/MSGAT/assets/133072736/c1006fe2-32bc-412a-a95a-0deb745cd1ab)
